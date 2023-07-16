@@ -1,0 +1,6 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="16" height="16" rx="1" fill="#00D084"/>
+<path shape-rendering="geometricPrecision" d="M6.75 1H4.75V3H3V5H4.75V9C4.75 10.1046 5.64543 11 6.75 11H9.00001V9H7.25C6.97386 9 6.75 8.77615 6.75 8.5V5H9.50001V3H6.75V1Z" fill="white"/>
+<path shape-rendering="geometricPrecision" d="M8.50001 8V6H12.75V12C12.75 13.1046 11.8545 14 10.75 14H7.75V12H10.25C10.5261 12 10.75 11.7761 10.75 11.5V8H8.50001Z" fill="white"/>
+<path shape-rendering="geometricPrecision" d="M11.75 2.75C12.4403 2.75 13 3.30964 13 4C13 4.69036 12.4403 5.25 11.75 5.25C11.0596 5.25 10.5 4.69036 10.5 4C10.5 3.30964 11.0596 2.75 11.75 2.75Z" fill="white"/>
+</svg>
