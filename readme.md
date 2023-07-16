@@ -3,6 +3,8 @@
 
 [example1](https://textjoint.github.io/highlight/example1.html)
 
+[example.com redirect](https://highlights.textjoint.com/exampledotcom.html)
+
 
 
 ### Resources
